@@ -1,0 +1,14 @@
+D:\Capgemini Training\String\String\bin\Debug\net8.0\String.exe
+D:\Capgemini Training\String\String\bin\Debug\net8.0\String.deps.json
+D:\Capgemini Training\String\String\bin\Debug\net8.0\String.runtimeconfig.json
+D:\Capgemini Training\String\String\bin\Debug\net8.0\String.dll
+D:\Capgemini Training\String\String\bin\Debug\net8.0\String.pdb
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.AssemblyInfoInputs.cache
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.AssemblyInfo.cs
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.dll
+D:\Capgemini Training\String\String\obj\Debug\net8.0\refint\String.dll
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.pdb
+D:\Capgemini Training\String\String\obj\Debug\net8.0\String.genruntimeconfig.cache
+D:\Capgemini Training\String\String\obj\Debug\net8.0\ref\String.dll
